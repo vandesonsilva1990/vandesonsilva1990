@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o **[Vandeson]**! 👋
 
-<!--
-**vandesonsilva1990/vandesonsilva1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu perfil do GitHub! Estou iniciando a minha jornada no mundo da tecnologia e transformando desafios em linhas de código.
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+* 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+* 💡 Focado em construir uma base sólida em engenharia de software e arquitetura de sistemas.
+* 🌱 No momento, estou aprofundando meus estudos em **TypeScript**, explorando tipagem estática e boas práticas de desenvolvimento.
+* 🔍 Buscando minha primeira oportunidade no mercado como **Estagiário** ou **Desenvolvedor Júnior**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+Aqui estão as tecnologias que uso e estou estudando atualmente:
+
+<div>
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</div>
+
+### 📈 Meu Portfólio de Aprendizado
+Este espaço é o meu diário de bordo. Aqui você vai encontrar:
+* Projetos práticos aplicando os conceitos que aprendo na faculdade.
+* Desafios de código focados em lógica e TypeScript.
+* Repositórios de estudos organizados por módulos.
+
+---
+
+📬 **Vamos nos conectar?**
+* **LinkedIn:** [Seu Link Aqui]
+* **E-mail:** [Seu E-mail Aqui]
