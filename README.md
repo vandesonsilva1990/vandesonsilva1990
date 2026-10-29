@@ -11,12 +11,12 @@ Seja bem-vindo(a) ao meu perfil do GitHub! Estou iniciando a minha jornada no mu
 ### 🛠️ Tecnologias e Ferramentas
 Aqui estão as tecnologias que uso e estou estudando atualmente:
 
-<div>
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</div>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+</p>
 
 ### 📈 Meu Portfólio de Aprendizado
 Este espaço é o meu diário de bordo. Aqui você vai encontrar:
