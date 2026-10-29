@@ -1,4 +1,4 @@
-# Olá, eu sou o **[Vandeson]**! 👋
+# Olá, eu sou o **Vandeson**! 👋
 
 Seja bem-vindo(a) ao meu perfil do GitHub! Estou iniciando a minha jornada no mundo da tecnologia e transformando desafios em linhas de código.
 
