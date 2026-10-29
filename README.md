@@ -27,5 +27,4 @@ Este espaço é o meu diário de bordo. Aqui você vai encontrar:
 ---
 
 📬 **Vamos nos conectar?**
-* **LinkedIn:** [Seu Link Aqui]
-* **E-mail:** [Seu E-mail Aqui]
+* **LinkedIn:** [(https://www.linkedin.com/in/vandeson-barbosa-da-silva-71a9901b9/)]
